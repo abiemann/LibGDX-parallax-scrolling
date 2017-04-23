@@ -1,4 +1,4 @@
 # LibGDX-parallax-scrolling
 sample code to demo parallax scrolling. See ActorBackground.java
 
-NOTE: this is reference code only. 
+NOTE: this is reference code only. It is not maintained.
